@@ -1,0 +1,25 @@
+git init
+	//leeres git repository
+git add
+	// Datei hinzufügen
+git commit
+	// um abzuspeichern --> ins repository; --m --> mit Nachricht
+git remove
+git remote
+	//für online server
+	add, rename, remove --> rm
+git clone <url><alias>
+git push origin
+git fetch origin
+git merge origin
+git pull 
+	//ist fetch + merge
+git rm -f 
+	//force, zwingen
+git staus
+	//zeigt an, was noch nicht abgespeichert ist
+
+git commit -m 'initial projekt version'
+
+
+
